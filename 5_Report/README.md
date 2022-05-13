@@ -10,51 +10,51 @@ The STM32F405xx and STM32F407xx families are built around the high-performance A
  ![image](https://user-images.githubusercontent.com/101788713/168244291-5dd4014f-6d25-4635-b5cf-9bf71547f773.png)
 ## 3. Push Button
 ![image](https://user-images.githubusercontent.com/101788713/168244372-17704761-135a-431e-9e7f-777b2abb6069.png)
-# ADVANTAGES:
+## ADVANTAGES:
 * Rain sensors collect water during rain events and store it for use during the summer and winter.
 * It is quite simple to use.
 * As a result, rain sensor-based equipment such as vehicle wipers and irrigation systems survive longer because they only operate when needed.
 * Rain sensor-based systems are extremely simple to install.
 
-# DISADVANTAGES:
+## DISADVANTAGES:
 * To avoid erroneous rain detection, rain sensors must make a decision within a few minutes.
 * When water falls squarely on the rain sensor, the mechanism activates.
 
-# 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
+## 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
 
-# WHAT:
+## WHAT:
 * A wiper speed control instrument limits the functioning speed of a car wiper in response to rainfall circumstances. The control framework combines a rainfall sensor (30) that detects downpour conditions to create. The sufficiency of a basic sign is dependent on the identified rain conditions.
 
-# WHY:
+## WHY:
 * To keep the windscreen clean enough to give adequate view at all times. 
 * The screen wipers clear the windshield of rain and snow, while the headlights improve visibility at night.
 
-# WHO:
+## WHO:
 * A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
 
-# HOW:
+## HOW:
 * The sped of the wiper system can be changed according to the requirement.
 
-# SWOT ANALYSIS:
-# STRENGTH:
+## SWOT ANALYSIS:
+## STRENGTH:
 * Good Reputation
 * Big Influence on the Market
 * High Bargaining Power Supliers
 * Low Budget
 
-# WEAKNESS:
+## WEAKNESS:
 
 * High Transaction Cost
 * Structural Inertia
 * No Focus on Private Sector
 
-# OPPRONUTIES:
+## OPPRONUTIES:
 
 * Technological Development
 * Demands in Automobile  Equipments
 * Emerging New Markets
 
-# THREATS:
+## THREATS:
 
 * Ethical Pressure
 * Low Bargaining Power Buyers
