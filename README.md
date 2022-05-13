@@ -1,0 +1,2 @@
+# M3_Car_Wiping_System
+A wiper is a basic component that clears rainfall or other water from the windscreen. Wipers are designed and manufactured to remove water from a windscreen. Most automobiles have two windshield wipers, one for the back window, and one for each front light. The elastic edge, the wiper arm supporting the sharp edge, a spring linkage, and segments of the wiper turns are all visible from the outside of the vehicle. Under the wiper, there are roughly six portions termed pressure focuses or paws, which are small arms.
