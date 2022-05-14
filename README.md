@@ -13,6 +13,7 @@ A wiper is a basic component that clears rainfall or other water from the windsc
 
 ### Badges
 ![codacy](https://api.codiga.io/project/32912/score/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4be591804d624019936c87e0ad2b30aa)](https://www.codacy.com/gh/Sakshiishah/M2_Temperature_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sakshiishah/M2_Temperature_Control_System&amp;utm_campaign=Badge_Grade)
 
-![codacy](https://api.codiga.io/project/32912/status/svg)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2f9261561bce4afda60b0e574507e0f9)](https://www.codacy.com/gh/Sakshiishah/M3_Car_Wiping_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sakshiishah/M3_Car_Wiping_System&amp;utm_campaign=Badge_Grade)
+![codiga](https://api.codiga.io/project/33461/status/svg)
